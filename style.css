@@ -1,0 +1,152 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #010a060d;
+}
+
+nav {
+  background-color: hsl(143, 59%, 19%);
+  padding: 10px 20px;
+  display: flex;
+  justify-content: center;
+}
+
+
+ul {
+  margin: 0%;
+  padding: 0%;
+}
+.hom{
+  width: 100%;
+  margin-top: 30%;
+  margin-left: 75%;
+  background-color: #9ca4ac;
+  
+}
+
+button :hover {
+  background-color: rgba(168, 28, 28, 0.2);
+  border-radius: 9px;
+}
+.text{
+  color: aliceblue;
+  font-size: 14px;
+justify-items: center;
+float: right;
+}
+.tex{
+  justify-items: center;
+}
+.text1{
+  color: aliceblue;
+  font-size: 12px;
+  margin-top: 1px;
+  justify-items: center;
+  margin-left: 75%;
+  padding-left: 5px;
+  float: initial;
+}
+
+.search-bar{
+  padding: 5px;
+  border: none;
+  border-radius: 5px;
+  justify-content: center;
+}
+.div1{
+  margin-top: 0%;
+  background-color: #111814;
+  width: 20%;
+  height: 100vh;
+}
+.new{
+  margin-top: -45%;
+  margin-left: 25%;
+  
+}
+img{
+  border-radius: 50%;
+  width: 15%;
+
+}
+.name{
+  margin-top: -15%;
+  margin-left: 19%;
+}
+p{
+  margin-top: 1%;
+  margin-left: 20%;
+}
+.over{
+  display: flex;
+
+}
+.cont{
+  padding: 10px 20px;
+  margin-top: 3%;
+}
+.btn{
+  margin-top: 10%;
+  margin-left: 3%;
+}
+.over {
+  display: flex;
+}
+
+.cont {
+  cursor: pointer; 
+}
+
+.cont:hover {
+  color: #1c5430; 
+  font-weight: bold
+}
+.head{
+  margin-left: 2%;
+  margin-top: 1%;
+}
+.head:hover {
+  color: #1c5430;
+  font-weight: bold;
+}
+
+
+.play {
+  margin-left: 0%;
+  border-radius: 2%;
+}
+.play1 {
+  margin-left: 3%;
+  border-radius: 2%;
+}
+.play:hover {
+  opacity: 0.7; 
+  transition: opacity 0.3s ease; 
+}
+.play1:hover{
+  opacity: 0.7; 
+  transition: opacity 0.3s ease; 
+}
+.btn:hover{
+  opacity: 0.7; 
+  transition: opacity 0.3s ease; 
+  background-color: #1c5430;
+
+}
+
+.hom {
+  background-color: white;
+  border: none;
+  padding: 10px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.hom:hover {
+  background-color: #264d15; 
+}
+
+.text:hover, .text1:hover {
+  color: #103f12; 
+  cursor: pointer;
+}
